@@ -33,7 +33,7 @@ names: [ 'Car', 'Motorcycle', 'Truck', 'Bus', 'Bicycle']  # class names
 
 ```
 
-## Clone yolov5 Repository
+## Clone Vehicle-Detection Repository
 ```
 git clone https://github.com/MaryamBoneh/Vehicle-Detection
 cd Vehicle-Detection
