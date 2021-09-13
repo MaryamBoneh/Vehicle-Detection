@@ -35,8 +35,8 @@ names: [ 'Car', 'Motorcycle', 'Truck', 'Bus', 'Bicycle']  # class names
 
 ## Clone yolov5 Repository
 ```
-git clone https://github.com/ultralytics/yolov5.git
-cd yolov5
+git clone https://github.com/MaryamBoneh/Vehicle-Detection
+cd Vehicle-Detection
 pip install -r requirements.txt
 ```
 
@@ -63,3 +63,8 @@ after train, gives you weights of train and you should use them for test.
 ```
 python detect.py --weights runs/train/exp12/weights/best.pt --source test_images/imtest13.JPG
 ```
+
+
+you can also use the weight file in path 'runs/train/exp12/weights/best.pt' without the train.
+this weight is the result of 128 epoch train on the following dataset.
+
