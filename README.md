@@ -66,7 +66,7 @@ python detect.py --weights runs/train/exp12/weights/best.pt --source test_images
 
 ## Pre-trained
 
-### yolov55m
+### yolov5m
 you can also use the weight file in path 'runs/train/exp12/weights/best.pt' without the train.
 this weight is the result of 128 epoch train on the following dataset.
 
