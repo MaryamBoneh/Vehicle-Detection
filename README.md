@@ -1,9 +1,9 @@
 # VehicleDetection
 Vehicle Detection Using Deep Learning and YOLO Algorithm
 
-![a1](https://user-images.githubusercontent.com/72157067/132953532-d7aba17a-2ca8-4703-a9e2-7c314e20f669.png)
+![res-2](https://user-images.githubusercontent.com/72157067/156183131-b661ba59-22e5-4c73-b5a9-e0b0855cc68a.jpg)
 
-![test_res_1](https://user-images.githubusercontent.com/72157067/132954150-720b0c16-586a-4683-b60c-7dc9b4e55e9f.jpg)
+![res-1](https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg)
 
 
 ## Dataset
