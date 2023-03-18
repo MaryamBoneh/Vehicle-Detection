@@ -19,22 +19,6 @@ Validition : 20%
 Test : 10%
 
 
-## dataset.yaml
-
-config dataset.yaml for the address and information of your dataset.
-
-```
-path: Dataset/dataset-vehicles  # dataset root dir
-train: images/train  # train images (relative to 'path')
-val: images/val  # val images (relative to 'path')
-test:  # test images (optional)
-
-# Classes
-nc: 5  # number of classes
-names: [ 'Car', 'Motorcycle', 'Truck', 'Bus', 'Bicycle']  # class names
-
-```
-
 ## Clone Vehicle-Detection Repository
 ```
 git clone https://github.com/MaryamBoneh/Vehicle-Detection
