@@ -8,9 +8,9 @@
 *(Train YOLO v5 on a Custom Dataset)*
 
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/72157067/156183131-b661ba59-22e5-4c73-b5a9-e0b0855cc68a.jpg" width="530" />
-  <img src="https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg" width="470" /> 
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/72157067/156183131-b661ba59-22e5-4c73-b5a9-e0b0855cc68a.jpg" width="600" />
+  <img src="https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg" width="600" /> 
 </p>
 
 ## Installation
