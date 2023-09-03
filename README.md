@@ -1,12 +1,25 @@
-# VehicleDetection
-Vehicle Detection Using Deep Learning and YOLO Algorithm
+# Vehicle Detection
+> Vehicle Detection Using Deep Learning and YOLO Algorithm.
 
-<sup> *(Train YOLO v5 on a Custom Dataset)* </sup>
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-![res-2](https://user-images.githubusercontent.com/72157067/156183131-b661ba59-22e5-4c73-b5a9-e0b0855cc68a.jpg)
+*(Train YOLO v5 on a Custom Dataset)*
 
-![res-1](https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg)
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/72157067/156183131-b661ba59-22e5-4c73-b5a9-e0b0855cc68a.jpg" width="530" />
+  <img src="https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg" width="470" /> 
+</p>
+
+## Installation
+
+```sh
+git clone https://github.com/MaryamBoneh/Vehicle-Detection
+cd Vehicle-Detection
+pip install -r requirements.txt
+```
 
 ## Dataset
 
@@ -58,3 +71,11 @@ this weight is the result of 128 epoch train on the following dataset.
 ```
 https://b2n.ir/vehicleDataset
 ```
+
+## Contributing
+
+1. Fork it (<https://github.com/MaryamBoneh/Vehicle-Detection>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
