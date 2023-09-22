@@ -1,9 +1,10 @@
 # Vehicle Detection
 > Vehicle Detection Using Deep Learning and YOLO Algorithm.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![GitHub forks](https://img.shields.io/github/forks/maryamboneh/vehicle-detection)
+![GitHub Repo stars](https://img.shields.io/github/stars/maryamboneh/vehicle-detection)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/maryamboneh/vehicle-detection)
+
 
 *(Train YOLO v5 on a Custom Dataset)*
 
