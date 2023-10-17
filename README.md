@@ -64,9 +64,16 @@ after train, gives you weights of train and you should use them for test.
 python detect.py --weights runs/train/exp12/weights/best.pt --source test_images/imtest13.JPG
 ```
 
+## Pre-trained
 
+### yolov5m
 you can also use the weight file in path 'runs/train/exp12/weights/best.pt' without the train.
 this weight is the result of 128 epoch train on the following dataset.
+
+### yolov5x6
+```
+https://drive.google.com/file/d/1xf80AVBb5kgcD9ptKyk5WRxP90ZL-R0Y/view?usp=sharing
+```
 
 ## My Vehicle Dataset
 ```
