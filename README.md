@@ -69,10 +69,8 @@ you can also use the weight file in path 'runs/train/exp12/weights/best.pt' with
 this weight is the result of 128 epoch train on the following dataset.
 
 ## My Vehicle Dataset
-```
-You can [email](mailto:maryamboneh@gmail.com) me to access the dataset.
 
-```
+You can [email](mailto:maryamboneh@gmail.com) me to access the dataset.
 
 ## Contributing
 
