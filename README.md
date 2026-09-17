@@ -70,7 +70,8 @@ this weight is the result of 128 epoch train on the following dataset.
 
 ## My Vehicle Dataset
 ```
-https://b2n.ir/vehicleDataset
+You can [email](mailto:maryamboneh@gmail.com) me to access the dataset.
+
 ```
 
 ## Contributing
